@@ -54,7 +54,7 @@
     "serialize-javascript": ">=2.1.1"
   },
   "devDependencies": {
-    "@angular-devkit/build-angular": "~0.801.1",
+    "@angular-devkit/build-angular": "~15.0.4",
     "@angular/cli": "^8.1.1",
     "@angular/compiler-cli": "^8.1.1",
     "@types/d3": "5.0.0",
@@ -80,7 +80,7 @@
     "protractor": "5.4.0",
     "raw-loader": "^0.5.1",
     "readable-stream": "^2.3.6",
-    "sass-loader": "^7.1.0",
+    "sass-loader": "^13.2.0",
     "ts-node": "^7.0.1",
     "tslint": "5.11.0",
     "typescript": "3.4.5",
