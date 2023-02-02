@@ -36,7 +36,7 @@
     "font-awesome": "4.7.0",
     "highlight.js": "9.12.0",
     "hoek": "^5.0.4",
-    "jszip": "^3.2.2",
+    "jszip": "^3.8.0",
     "moment": "^2.24.0",
     "ngx-clipboard": "^12.2.0",
     "ngx-pagination": "^3.3.1",
